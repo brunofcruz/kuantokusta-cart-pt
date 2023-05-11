@@ -1,10 +1,10 @@
-API de listagem de Produtos
+API de gestão de carrihnos de compras
 
 ## Description
 
-Esta API foi criada para o teste técnico da Kuanto Kusta PT e tem como finalidade exibir uma lista fictícia de produtos.
-Para sua criação foram utilizados:
-NestJS e Mongoose
+Esta API foi criada para o teste técnico da Kuanto Kusta PT e tem como finalidaderealizar a gestão básica de um carrinho de compras.
+As tecnologias utilizadas foram: NestJS, TypeORM e PostgreSQL.
+
 
 ## Installation
 
